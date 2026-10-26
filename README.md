@@ -1,4 +1,4 @@
-# AI-Powered Customer Retention System
+# Telco Customer Churn Analysis & Prediction
 
 **Customer Churn Analysis, Machine Learning Prediction, and Risk-Based Retention Strategies**
 
