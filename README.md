@@ -47,7 +47,7 @@ The exploratory analysis identified several patterns associated with customer ch
 
 - **Overall Churn Rate:** 26.54% of customers discontinued their services.
 - **Contract Type:** Month-to-month customers had the highest churn rate at 42.71%.
-- **Customer Tenure:** Customers with 0–12 months of tenure had a churn rate of 47.44%.
+- **Customer Tenure:** Customers with 0-12 months of tenure had a churn rate of 47.44%.
 - **Monthly Charges:** Customers in the high monthly charges category had a churn rate of 37.80%.
 - **Internet Service:** Fiber optic customers had a churn rate of 41.89%.
 
