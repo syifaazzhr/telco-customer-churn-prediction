@@ -123,13 +123,13 @@ Two interactive dashboards were developed to communicate the analytical results.
 
 This dashboard provides an overview of customer characteristics, churn distribution, and factors associated with customer churn.
 
-<img width="1082" height="742" alt="image" src="https://github.com/user-attachments/assets/d7bc63d1-09ef-403f-bf39-346644d4c19c" />
+<img width="1082" height="745" alt="image" src="https://github.com/user-attachments/assets/22ec17c0-982d-4b26-9174-ab12e7d29efb" />
 
 ### Dashboard 2 — Churn Prediction & Retention Strategy
 
 This dashboard presents machine learning predictions, customer risk segmentation, and recommended retention strategies based on the test dataset.
 
-<img width="1082" height="741" alt="image" src="https://github.com/user-attachments/assets/d76092f4-5841-42b7-881a-2dc7370421ca" />
+<img width="1082" height="742" alt="image" src="https://github.com/user-attachments/assets/c84f6a84-4716-4ad8-954f-74c1264142aa" />
 
 ## 12. Project Structure
 
